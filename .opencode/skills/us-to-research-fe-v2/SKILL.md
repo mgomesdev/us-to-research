@@ -62,19 +62,15 @@ Esta SKILL converte requisitos abstratos escritos por Product Owners em um resea
 
 ### 1. Atores
 
-Os atores representam papeis desempenhados pelos diversos usuarios que interagem com os serviços e funções do sistema.
-- um ator pode representar algum hardware ou outro software que interaja com o sistema. 
-- Na maioria das vezes, um ator representará uma pessoa que utilizará o sistema. 
-- Cada ator deve ter um nome e um estereótipo ex `<<system>>` que torna explicito que não é um ator humano, e sim sistemas de software ou hardware.
-- Em resumo um ator é um usuário que pode representar mais de um papel no sistema
-
-**Obs.** A utilização de estereótipo de sistemas de software ou hardware não é obrigatório, é apenas recomendado para destacar a caracteristica especial que o diferencia dos atores mais comuns.
-
-**Consulte:** `./references/actor-and-uc.md` para saber como identificar atores.
+**Consulte:** `./references/actor-and-uc.md` na seção **1. Atores** para mais detalhes sobre **Atores**.
 
 ### 2. Casos de Uso
 
-- TODO
+**Consulte:** `./references/actor-and-uc.md` na seção **2. Casos de Uso** para mais detalhes sobre **Casos de Uso**.
+
+### 3. Documentação dos Casos de Uso
+
+**Consulte:** `./references/actor-and-uc.md` na seção **3. Documentação dos Casos de Uso** para mais detalhes sobre **Casos de Uso**.
 
 ---
 
