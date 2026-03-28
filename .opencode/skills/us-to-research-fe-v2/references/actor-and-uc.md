@@ -40,7 +40,7 @@ Os casos de uso são usados para capturar os requisitos funcionais do sistema (s
 
 ### 2.2. Localização
 
-- Cada caso de uso e tudo relacionado é salvo em sua pasta propria dentro da pasta da feature. ex: `/specs/features/[name]/[uc-01]/uc-01.md`
+- Cada caso de uso e tudo relacionado é salvo em sua pasta propria dentro da pasta da feature. ex: `/specs/features/[name]/[uc-01]/uc-01.md` kebab-case.
 
 ### 2.3. Classificação
 
