@@ -1,10 +1,10 @@
 ---
-name: us-to-research-fe-v2
-description: "Converte requisitos abstratos escritos por Product Owners em um research.md estruturado para desenvolvimento Frontend. Gera contrato de integração com o Backend. Use esta skill quando receber uma User Story para desenvolvimento frontend."
+name: us-to-research
+description: "Converte requisitos abstratos escritos por Product Owners em um research.md estruturado para desenvolvimento. Use esta skill quando receber uma User Story para desenvolvimento."
 license: MIT
 ---
 
-Esta SKILL converte requisitos abstratos escritos por Product Owners em um research.md estruturado para desenvolvimento frontend.
+Esta SKILL converte requisitos abstratos escritos por Product Owners em um research.md estruturado para desenvolvimento.
 
 - O usuário fornece o nome da feature e a skill verifica a existencia da feature e seu arquivo **research.md** na pasta, para saber se é para 'atualizar' ou 'criar' um novo research.md.
 - Caso a feature não exista, é criada a pasta da feature com um arquivo **prd.md** onde será adicionado o conteudo do requisito escrito pelo Product Owner para conversão.
