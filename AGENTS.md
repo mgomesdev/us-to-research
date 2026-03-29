@@ -9,14 +9,21 @@ us-to-research/
 ├── README.md                    # Documentação principal
 ├── AGENTS.md                    # Diretrizes para agentes
 ├── opencode.json                # Configuração do OpenCode
+├── specs/
+│   └── features/
+│       └── [feature-name]/
+│           ├── prd.md           # Requisito original do PO
+│           ├── research.md      # Documentação estruturada gerada
+│           └── uc-*/            # Casos de uso separados
 └── .opencode/
-    └── skills/
-        └── us-to-research/
-            ├── SKILL.md         # Skill principal
-            ├── references/
-            │   └── actor-and-uc.md    # Referência para atores e casos de uso
-            └── assets/
-                └── uc-spec-example.md # Exemplo de especificação de UC
+    ├── skills/
+    │   └── us-to-research/
+    │       ├── SKILL.md         # Skill principal
+    │       ├── references/
+    │       │   └── actor-and-uc.md    # Referência para atores e casos de uso
+    │       └── assets/
+    │           └── uc-spec-example.md # Exemplo de especificação de UC
+    └── package.json             # Dependências do OpenCode
 ```
 
 ## Fluxo de Git

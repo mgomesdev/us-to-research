@@ -165,6 +165,13 @@ Descrição narrativa de como o usuário interage com a funcionalidade (7 linhas
 
 ---
 
+### 12. Questôes em Aberto
+
+- Questôes que foi deixada em aberto explicitamente.
+- Tópicos que foi marcado com "A definir"
+
+---
+
 ## Output
 
 ```markdown

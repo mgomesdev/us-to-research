@@ -44,7 +44,7 @@ Retorne ao terminal e escolha a opção de continuar. A skill:
 - Se houver ambiguidades, faz perguntas para esclarecer
 - Gera o `research.md` estruturado com casos de uso separados
 
-## Estrura de arquivos
+## Estrutura de arquivos
 
 ```
 specs/
@@ -52,7 +52,7 @@ specs/
     └── [nome-da-feature]/
         ├── prd.md       # Requisito original do Product Owner
         ├── research.md  # Documentação estruturada gerada
-        └── uc/          # Casos de uso separados
+        └── uc-*/        # Casos de uso separados
             ├── uc-01/
             │   └── uc-01.md
             └── uc-02/
